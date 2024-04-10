@@ -1,1 +1,1 @@
-this is a custom made dashboard making with the dashboard using html css and javacript
+this is a custom made dashboard making with some components using html css and javacript
